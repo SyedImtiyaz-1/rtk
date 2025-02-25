@@ -1,6 +1,5 @@
 # Redux Toolkit (RTK)
-
-Steps to work with Redux Toolkit (RTK)
+Redux Toolkit (also known as "RTK" for short) is our official recommended approach for writing Redux logic.
 > RTK Docs : https://redux-toolkit.js.org/
 
 ```
