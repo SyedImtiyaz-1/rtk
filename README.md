@@ -12,13 +12,13 @@ Steps to work with Redux Toolkit (RTK)
 5. Access the state and dispatch functions from the store
 ```
 
-> That's all about RTK
+> RTK Docs : https://redux-toolkit.js.org/
 
 <br>
 
 # Zustand
 Zustand is also a state management library like Redux Toolkit but with a different approach. <br>
-> Website : https://zustand-demo.pmnd.rs/
+> Zustand Docs : https://zustand-demo.pmnd.rs/
 
 ```
 Steps to work with Zustand:
@@ -28,4 +28,4 @@ Steps to work with Zustand:
 2. Create a store
 3. Create state and actions
 4. Import and use the store
-```# rtk
+```
