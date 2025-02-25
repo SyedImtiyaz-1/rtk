@@ -1,6 +1,7 @@
 # Redux Toolkit (RTK)
 
 Steps to work with Redux Toolkit (RTK)
+> RTK Docs : https://redux-toolkit.js.org/
 
 ```
 < install RTK using : npm install @reduxjs/toolkit react-redux >
@@ -11,8 +12,6 @@ Steps to work with Redux Toolkit (RTK)
 4. Import reducer in store
 5. Access the state and dispatch functions from the store
 ```
-
-> RTK Docs : https://redux-toolkit.js.org/
 
 <br>
 
